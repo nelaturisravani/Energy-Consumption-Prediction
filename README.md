@@ -2,12 +2,12 @@
 
 An interactive forecasting dashboard that analyzes time-series data and generates future predictions using machine learning and deep learning techniques.
 
----
+
 
 ## Overview
 This project aims to support efficient resource management by analyzing historical data, identifying patterns, and forecasting future values. It includes a Streamlit dashboard where users can upload a CSV dataset, explore consumption trends, view feature importance, and compare ARIMA and LSTM forecasts.
 
----
+
 
 ## Key Features
 * **CSV Data Upload:** Analyze custom time-series datasets.
@@ -18,7 +18,7 @@ This project aims to support efficient resource management by analyzing historic
 * **LSTM Forecasting:** Use previous time steps to learn sequential patterns.
 * **Recommendations & Alerts:** Displayed directly through the interactive dashboard.
 
----
+
 
 ## Technologies Used
 * **Programming Language:** Python
